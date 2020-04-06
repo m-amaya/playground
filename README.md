@@ -41,13 +41,13 @@ The progress of each of these applications are as follows:
 
 #### Databases
 
-| Technology       | Todo | Snippets |
-| :--------------- | :--: | :------: |
-| MariaDB `v10`    |  -   |    -     |
-| MongoDB `v4`     |  -   |    -     |
-| MySQL `v8`       |  -   |    -     |
-| PostgreSQL `v12` |  -   |    -     |
-| Redis `v5`       |  -   |    -     |
+| Technology       | Basics | Todo | Snippets |
+| :--------------- | :----: | :--: | :------: |
+| MariaDB `v10`    |   -    |  -   |    -     |
+| MongoDB `v4`     |   -    |  -   |    -     |
+| MySQL `v8`       |   -    |  -   |    -     |
+| PostgreSQL `v12` |   -    |  -   |    -     |
+| Redis `v5`       |   -    |  -   |    -     |
 
 #### Languages
 
