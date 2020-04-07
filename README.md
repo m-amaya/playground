@@ -12,7 +12,7 @@ The progress of each of these applications are as follows:
 
 | Technology         | Hello World | Todo | Snippets |
 | :----------------- | :---------: | :--: | :------: |
-| .NET Core `v3`     |      -      |  -   |    -     |
+| ASP.NET Core `v3`  |      -      |  -   |    -     |
 | Angular `v9`       |      -      |  -   |    -     |
 | Django `v3`        |      -      |  -   |    -     |
 | Ember `v3`         |      -      |  -   |    -     |
@@ -28,7 +28,7 @@ The progress of each of these applications are as follows:
 
 | Technology         | Hello World | Todo | Snippets |
 | :----------------- | :---------: | :--: | :------: |
-| .NET Core `v3`     |      -      |  -   |    -     |
+| ASP.NET Core `v3`  |      -      |  -   |    -     |
 | Django `v3`        |      -      |  -   |    -     |
 | Express `v4`       |      -      |  -   |    -     |
 | Go                 |      -      |  -   |    -     |
